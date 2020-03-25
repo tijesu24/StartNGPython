@@ -1,12 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Mar 26 00:09:34 2020
-
-@author: Tijesunimi.Adebiyi
-"""
-
-# -*- coding: utf-8 -*-
-"""
 Created on Mon Mar 16 14:30:17 2020
 
 @author: Tijesunimi.Adebiyi
